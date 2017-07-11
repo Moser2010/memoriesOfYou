@@ -1,0 +1,29 @@
+{
+  "name": "memories",
+  "version": "1.0.0",
+  "description": "This is a project dedicated to memories with my GF",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "npm-sass": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moser2010/memoriesOfYou.git"
+  },
+  "keywords": [
+    "memories",
+    "gallery"
+  ],
+  "author": "Cody J. Butherus Moser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moser2010/memoriesOfYou/issues"
+  },
+  "homepage": "https://github.com/Moser2010/memoriesOfYou#readme"
+}
